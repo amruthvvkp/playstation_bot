@@ -4,6 +4,8 @@
         "ms-toolsai.jupyter",
         "yzhang.markdown-all-in-one",
         "ms-python.vscode-pylance",
-        "ms-python.python"
+        "ms-python.python",
+        "codestream.codestream",
+        "github.vscode-pull-request-github"
     ]
 }
